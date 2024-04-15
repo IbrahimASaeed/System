@@ -22,7 +22,7 @@ public class Client {
             String co2Concentration;
 
             System.out.println(in.readLine()); // Display server greeting
-            System.out.println("Enter User ID:");
+            System.out.println("Enter  Unique User ID:");
             userID = userInput.readLine();
             out.println(userID);
             System.out.println("Enter postcode:");
